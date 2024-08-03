@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    display: flex;
+    height: 100vh;
+}
+.box-left{
+    width: 49.5%;
+    border: 1px solid black;
+}
+.box-right{
+    width: 49.5%;
+    border: 1px solid black;
+}
+.box-sep{
+    width: 1%;
+    border: 1px solid black;
+    background-color: yellowgreen;
+}
+.line{
+    height: 25px;
+    border: 1px solid rgb(41, 41, 37);
+}
